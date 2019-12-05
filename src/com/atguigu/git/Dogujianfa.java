@@ -8,7 +8,11 @@ public class Dogujianfa {
 		System.out.println("33333333333");
 		System.out.println("rrrrrrrrrrr");
 		System.out.println("ggggggggggg");
+
 		System.out.println("ppppppppppp");
+
+		System.out.println("zzzzzzzzzzz");
+
 	}
 
 }
